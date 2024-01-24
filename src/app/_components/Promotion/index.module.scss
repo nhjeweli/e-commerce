@@ -53,7 +53,12 @@
   padding: 16px;
   min-width: 100px;
   width: 100%;
-  text-align: center;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
 
   h4 {
     font-weight: bold;
